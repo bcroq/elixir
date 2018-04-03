@@ -46,4 +46,5 @@ SVN version: <http://elixir.ematia.de/svn/elixir/trunk#egg=Elixir-dev>
           "Topic :: Software Development :: Libraries :: Python Modules"
       ],
       test_suite = 'nose.collector',
+      extras_require={'doc': ['PyCrypto', 'sphinx']},
       **extra)

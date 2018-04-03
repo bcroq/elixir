@@ -1,6 +1,4 @@
 '''
-Elixir package
-
 A declarative layer on top of the `SQLAlchemy library
 <http://www.sqlalchemy.org/>`_. It is a fairly thin wrapper, which provides
 the ability to create simple Python classes that map directly to relational
